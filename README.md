@@ -87,12 +87,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devarshpatel122005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&count_private=true&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarshpatel122005&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook" height="170" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devarshpatel122005&theme=github-dark-blue&hide_border=true&background=0D1117" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devarshpatel122005&theme=github-dark-blue&hide_border=true&background=0D1117" height="200" />
 
 <br/><br/>
 
